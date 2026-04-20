@@ -1,7 +1,9 @@
 {
-  "name": "bot-discord",
+  "name": "IDNS-Manager",
   "version": "1.0.0",
   "main": "index.js",
+"dependencies": {
+    "discord.js": "^14.26.3"
   "scripts": {
     "start": "node index.js"
   }
